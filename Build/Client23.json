@@ -1,0 +1,17 @@
+{
+"companyName": "VRSolutions",
+"productName": "DellTour3D",
+"productVersion": "1.0",
+"dataUrl": "Client23.data.unityweb",
+"wasmCodeUrl": "Client23.wasm.code.unityweb",
+"wasmFrameworkUrl": "Client23.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Client23.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
